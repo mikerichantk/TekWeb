@@ -1,0 +1,15 @@
+/* stylesheet for all pages */
+
+* {
+    font-size: 1.25vw;
+}
+html, body {
+    margin: 0;
+    padding: 0;
+    border: 1px solid transparent;
+    outline: 0;
+    font-size: 100%;
+    width: 100%;
+    height: 100%;
+    background: beige;
+}
