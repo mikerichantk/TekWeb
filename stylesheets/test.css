@@ -1,0 +1,12 @@
+/* test.html stylesheet */
+body {
+    background-image: linear-gradient(to right, red,orange,yellow,green,blue,indigo,violet); 
+}
+
+.right_text {
+    float: right;
+}
+
+.left_text {
+    float: left;
+}
